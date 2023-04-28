@@ -1,0 +1,1 @@
+In order to work the libraries from TGUI and SFML must be added to the out folder and root folder.
